@@ -1,10 +1,12 @@
+body
+{font-family: sans-serif;
+}
 p
 {text-align: center;
 margin: 0 0 .5em 0;
-font-weight: bold;}
+font-weight: bold;
+}
 h1
 {text-align: left;
-margin: 0 0 1em 0;
+margin: 0 0 .5em 0;
 }
-body
-{font-family: sans-serif;}
