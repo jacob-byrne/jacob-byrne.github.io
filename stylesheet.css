@@ -1,6 +1,6 @@
 body
 {
-    font-family: sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .content 
@@ -14,13 +14,13 @@ body
     font-weight: bold;
     font-size: 150%;
 }
-.content p
-{
-    font-size; 100%;
-}
-.content a
-{
 
+.content .about {
+    text-align: left;
+}
+
+.content .skillz {
+    text-align: right;
 }
 
 .nav
@@ -28,6 +28,7 @@ body
     background-color: #eaeaea;
     display: flex;
     height: 150px;
+    font-size: 125%;
 }
 
 .navit
